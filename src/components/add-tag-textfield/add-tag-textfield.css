@@ -1,0 +1,18 @@
+.tag-container-card {
+	background-color: #0a1429;
+	border: 1px solid rgba(255, 99, 132, 1);
+	margin-bottom: 10px;
+}
+
+.tag-input-textfield {
+	margin-bottom: 10px;
+}
+
+.tag-col {
+	margin-bottom: 5px;
+}
+
+.add-tag-textfield-title {
+	text-align: center;
+}
+

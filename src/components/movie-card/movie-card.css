@@ -1,0 +1,38 @@
+.movie-card {
+	display: inline-grid;
+	background-color: #0f3d3d;
+	border-radius: 5px;
+	margin: auto;
+	width: 90%;
+	margin-top: 1rem;
+}
+
+.movie-card-body {
+	padding: 5px;
+}
+
+.poster {
+	max-width: 100%;
+	max-height: 10rem;
+	box-shadow: 0.2px 0.2px 2.5px 2.5px rgba(0,0,0,1);
+	margin: auto;
+}
+
+.card-movie-title {
+	margin-top: 5px;
+	color: rgba(255, 99, 132, 1);
+}
+
+p.len-genre {
+	color: rgba(170,170,170,1);
+}
+
+p.vote {
+	color: #fff;
+	font-weight: 700;
+}
+
+p.plot {
+	font-size: 15px;
+	color: rgba(200,200,200,1);
+}

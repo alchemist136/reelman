@@ -1,0 +1,9 @@
+.prevBtn {
+	float: left;
+	background-color: rgba(255, 99, 132, 1);
+}
+
+.nextBtn {
+	float: right;
+	background-color: rgba(255, 99, 132, 1);
+}
